@@ -36,5 +36,4 @@
         android:text="Read Your Journal"
         android:id="@+id/button_explicit_intent_result"
         />
-
 </LinearLayout>

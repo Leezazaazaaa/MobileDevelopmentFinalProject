@@ -24,7 +24,6 @@ class ReadJournal: AppCompatActivity() {
                 setResult(RESULT_OK, result)
                 finish()
             }
-
         })
 
     }

@@ -22,5 +22,4 @@
         android:text="Dismiss Reading Journal"
         android:id="@+id/button"
         />
-
 </LinearLayout>

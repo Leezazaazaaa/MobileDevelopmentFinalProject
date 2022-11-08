@@ -24,7 +24,6 @@ class WriteJournal: AppCompatActivity() {
     private lateinit var _button: Button
     private lateinit var _textview: TextView
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_write)

@@ -20,7 +20,6 @@
         android:text="Dismiss writing journal"
         android:id = "@+id/button"
         />
-
 </LinearLayout>
 
 

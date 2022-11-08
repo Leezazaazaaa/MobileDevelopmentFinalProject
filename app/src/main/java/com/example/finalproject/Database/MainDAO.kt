@@ -14,6 +14,4 @@ interface MainDAO {
 //    @Query("SELECT * FROM journal ORDER BY id DESC")
 //    List<WriteJournal> getAll()
 
-
-
 }

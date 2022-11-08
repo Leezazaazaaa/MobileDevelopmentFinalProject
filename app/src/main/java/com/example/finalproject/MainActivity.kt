@@ -50,6 +50,4 @@ class MainActivity : AppCompatActivity() {
         var intent:Intent= Intent(this, ReadJournal::class.java)
         startActivityForResult(intent,16)
     }
-
-
 }
