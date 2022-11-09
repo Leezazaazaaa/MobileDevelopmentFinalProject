@@ -37,6 +37,7 @@ class MainActivity : AppCompatActivity() {
         if(requestCode==16 && resultCode == RESULT_OK){
             _textview.setText(data?.getStringExtra("entered"))
             }
+        super.onActivityResult(requestCode, resultCode, data)
     }
 
     private fun startWritingJournal(){
